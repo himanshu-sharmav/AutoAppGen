@@ -4,7 +4,7 @@ import google.generativeai as genai
 # import json
 
 # Set up your Gemini API key
-genai.configure(api_key='AIzaSyDbXU8x7EKRGrHa6LiuBKhBk8AsV0m_d7E')  # Replace with your Gemini API key
+genai.configure(api_key='API_KEY')  # Replace with your Gemini API key
 
 FILE_LIMIT = 20
 
